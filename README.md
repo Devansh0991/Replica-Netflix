@@ -1,8 +1,1 @@
-Netflix Replica
-Replicated Netflix Home Page
-
-Languages
-This project was built using HTML,CSS and JavaScript and Fontawesome.
-
-Authors
-Devansh Sharma
+[README (1).md](https://github.com/Devansh0991/Replica-Netflix/files/10070148/README.1.md)
